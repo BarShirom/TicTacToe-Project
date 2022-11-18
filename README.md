@@ -1,4 +1,5 @@
-![](https://user-images.githubusercontent.com/113840044/202675608-2e1d80af-79d3-46be-8d00-d50dbc79d17d.png =250x250)
-![](https://user-images.githubusercontent.com/113840044/202675615-5586a9a2-254c-47fb-855d-7ec13732ee7c.png =250x250)
+(https://user-images.githubusercontent.com/113840044/202686020-cb33160c-295f-4dd8-9db8-fc6431d74fa2.png)
+(https://user-images.githubusercontent.com/113840044/202686029-f82e9f1a-a0d1-45f4-8bf7-12a80a01ff0e.png)
+
 # TicTacToe-Project
 My second project in INT - TS
