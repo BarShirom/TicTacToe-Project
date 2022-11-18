@@ -1,4 +1,4 @@
-![Screenshot_3](https://user-images.githubusercontent.com/113840044/202688467-6a706094-2898-4d4a-b42a-b5956db250d6.png)
-![Screenshot_4](https://user-images.githubusercontent.com/113840044/202688472-ff1d0c90-eed3-4ab4-9477-0bc19aa08804.png)
+![Screenshot_3](https://user-images.githubusercontent.com/113840044/202689247-6376e76b-6fbd-4917-84e3-2f74b109b83d.png)
+![Screenshot_4](https://user-images.githubusercontent.com/113840044/202689250-14540b4b-925c-4c7f-bf5d-2f056091dcd4.png)
 # TicTacToe-Project
 My second project in INT - TS
